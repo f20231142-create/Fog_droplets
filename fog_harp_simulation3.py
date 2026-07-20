@@ -8,8 +8,7 @@ initiates by the coalescence of a top pair of droplets; the merged droplet
 subsequently coalesces with all underlying droplets as it moves down the
 wire.
 
-Translated as literally as possible from the original MATLAB code
-(fog_og.m). Arrays that are 1-indexed in MATLAB (L, V, b, x, vel, a) are
+Arrays that are 1-indexed in MATLAB (L, V, b, x, vel, a) are
 kept 1-indexed here too, by padding index 0 with a dummy placeholder, so
 that the numerical logic, indices, and variable names match the MATLAB
 source exactly.

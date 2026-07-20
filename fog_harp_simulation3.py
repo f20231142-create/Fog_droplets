@@ -1,8 +1,4 @@
 """
-Python translation of fog_og.m
-Paired with the manuscript "Dynamics of fog droplets on a harp wire" by
-Nicholas Kowalski and Jonathan Boreyko.
-
 This program calculates position, velocity, and acceleration of a water
 droplet sliding down a vertical wire, merging with other droplets along
 the way. The model system considers a vertical wire with n droplets along
